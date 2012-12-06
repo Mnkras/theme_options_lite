@@ -1,0 +1,14 @@
+Theme Options Lite Changelog
+
++ = New
+- = Removed
+* = BugFix
+
+1.0
+ + Initial Release
+
+1.1
+ * Fix for mobile detection
+
+1.2
+ * Updated for 5.5+
